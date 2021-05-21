@@ -1,0 +1,12 @@
+.btn {
+  margin-top: 15px;
+}
+
+.form label {
+  margin-top: 15px;
+  margin-bottom: 3px;
+}
+
+.err {
+  color: rgb(224, 86, 86);
+}
